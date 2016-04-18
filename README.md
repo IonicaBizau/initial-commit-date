@@ -3,15 +3,15 @@
 > Get the initial commit date of a git repository.
 
 ## :cloud: Installation
-    
+
 ```sh
 $ npm i --save initial-commit-date
 ```
 
-            
+
 ## :clipboard: Example
 
-        
+
 
 ```js
 const initialCommitDate = require("initial-commit-date");
@@ -21,9 +21,9 @@ initialCommitDate((err, date) => {
     // => Mon Apr 18 2016 10:26:27 GMT+0300 (EEST)
 });
 ```
-    
+
 ## :memo: Documentation
-        
+
 ### `initialCommitDate(cwd, cb)`
 Get the initial commit date of a git repository.
 
@@ -31,14 +31,14 @@ Get the initial commit date of a git repository.
 - **String** `cwd`: The path to the git repository.
 - **Function** `cb`: The callback function.
 
-        
+
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
 ## :scroll: License
-    
+
 [MIT][license] © [Ionică Bizău][website]
-    
+
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 [donate-now]: http://i.imgur.com/6cMbHOC.png
 
