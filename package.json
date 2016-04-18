@@ -1,6 +1,6 @@
 {
   "name": "initial-commit-date",
-  "description": "Get the initial commit date from a git repository.",
+  "description": "Get the initial commit date of a git repository.",
   "keywords": [
     "initial",
     "commit",
