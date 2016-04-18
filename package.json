@@ -1,0 +1,30 @@
+{
+  "name": "initial-commit-date",
+  "description": "Get the initial commit date from a git repository.",
+  "keywords": [
+    "initial",
+    "commit",
+    "date",
+    "get",
+    "the",
+    "from",
+    "a",
+    "git",
+    "repository"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/initial-commit-date.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/initial-commit-date/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/initial-commit-date#readme"
+}
