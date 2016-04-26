@@ -1,3 +1,4 @@
+
 # initial-commit-date [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Travis](https://img.shields.io/travis/IonicaBizau/initial-commit-date.svg)](https://travis-ci.org/IonicaBizau/initial-commit-date/) [![Version](https://img.shields.io/npm/v/initial-commit-date.svg)](https://www.npmjs.com/package/initial-commit-date) [![Downloads](https://img.shields.io/npm/dt/initial-commit-date.svg)](https://www.npmjs.com/package/initial-commit-date) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Get the initial commit date of a git repository.
@@ -24,6 +25,7 @@ initialCommitDate((err, date) => {
 
 ## :memo: Documentation
 
+
 ### `initialCommitDate(cwd, cb)`
 Get the initial commit date of a git repository.
 
@@ -32,8 +34,15 @@ Get the initial commit date of a git repository.
 - **Function** `cb`: The callback function.
 
 
+
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
+
+## :dizzy: Where is this library used?
+If you are using this library in one of your projects, add it in this list. :sparkles:
+
+
+ - [`blah`](https://github.com/IonicaBizau/blah)—A command line tool to optimize the repetitive actions.
 
 ## :scroll: License
 
